@@ -2,5 +2,8 @@
 opencv+dnn+cuda+inference
 
 
-https://user-images.githubusercontent.com/47795864/156932516-1d818297-f452-43e7-9a46-6dab80ed25cc.mp4
+
+
+
+https://user-images.githubusercontent.com/47795864/156932605-fc84c100-b01d-4b51-9908-f6727fdbba6f.mp4
 
